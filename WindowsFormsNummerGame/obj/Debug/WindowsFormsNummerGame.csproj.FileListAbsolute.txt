@@ -1,0 +1,10 @@
+I:\BFW\AnwEntwicklung\Windows Form\WindowsFormsNummerGame\WindowsFormsNummerGame\bin\Debug\WindowsFormsNummerGame.exe.config
+I:\BFW\AnwEntwicklung\Windows Form\WindowsFormsNummerGame\WindowsFormsNummerGame\bin\Debug\WindowsFormsNummerGame.exe
+I:\BFW\AnwEntwicklung\Windows Form\WindowsFormsNummerGame\WindowsFormsNummerGame\bin\Debug\WindowsFormsNummerGame.pdb
+I:\BFW\AnwEntwicklung\Windows Form\WindowsFormsNummerGame\WindowsFormsNummerGame\obj\Debug\WindowsFormsNummerGame.csprojAssemblyReference.cache
+I:\BFW\AnwEntwicklung\Windows Form\WindowsFormsNummerGame\WindowsFormsNummerGame\obj\Debug\WindowsFormsNummerGame.Form1.resources
+I:\BFW\AnwEntwicklung\Windows Form\WindowsFormsNummerGame\WindowsFormsNummerGame\obj\Debug\WindowsFormsNummerGame.Properties.Resources.resources
+I:\BFW\AnwEntwicklung\Windows Form\WindowsFormsNummerGame\WindowsFormsNummerGame\obj\Debug\WindowsFormsNummerGame.csproj.GenerateResource.cache
+I:\BFW\AnwEntwicklung\Windows Form\WindowsFormsNummerGame\WindowsFormsNummerGame\obj\Debug\WindowsFormsNummerGame.csproj.CoreCompileInputs.cache
+I:\BFW\AnwEntwicklung\Windows Form\WindowsFormsNummerGame\WindowsFormsNummerGame\obj\Debug\WindowsFormsNummerGame.exe
+I:\BFW\AnwEntwicklung\Windows Form\WindowsFormsNummerGame\WindowsFormsNummerGame\obj\Debug\WindowsFormsNummerGame.pdb
